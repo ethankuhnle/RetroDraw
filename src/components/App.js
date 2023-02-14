@@ -22,6 +22,7 @@ const getCellListFromLocal = () => {
   }
 
   return buildCellList();
+  
 };
 
 const setCellListOnLocal = (cellList) => {
